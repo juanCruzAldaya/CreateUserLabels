@@ -189,7 +189,7 @@ def separate_excel_files(root_file_path: str) -> None:
         print(f"The file {filePath} does not exist")
 
 
-listOfPossibleRoutes = ['Envio Kit Efectivizacion', 'Envío PC Domicilio + Start Week Córdoba', 'Envio PC Domicilio', 'Retiro Kit Efectivizacion', 'Start Week - MDQ', 'Start Week - PP', 'Start Week - ROS', 'Stand by']
+listOfPossibleRoutes = ['ZzZZZzzzZ', 'xXxXxX + yyYyY']
 
 fileName = input("Enter the excel name: \n")
 
